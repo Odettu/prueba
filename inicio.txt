@@ -3,3 +3,5 @@ Aprender a utilizar git
 Aprender a hacer cambios en un archivo.
 
 No sale esta cosa
+
+Prueba con git Kraken
